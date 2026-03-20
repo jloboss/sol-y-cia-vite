@@ -2,3 +2,7 @@ node_modules
 dist
 .vite
 .vercel
+node_modules
+dist
+.vite
+.vercel
